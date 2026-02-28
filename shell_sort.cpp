@@ -25,7 +25,7 @@ int main() {
             arr[j] = temp;
         }
     }
-
+ 
     // output (important: space after every element)
     for (int i = 0; i < n; i++) {
         cout << arr[i] << " ";
