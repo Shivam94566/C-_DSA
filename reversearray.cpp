@@ -1,3 +1,4 @@
+//reverse array 
 function reverseArray(arr) {
     let n = arr.length;
     
