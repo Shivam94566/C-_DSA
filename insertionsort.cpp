@@ -2,7 +2,7 @@
 #include <iostream> 
 using namespace std;
 
-/* Function to sort array using insertion sort */
+/* Function to sort array using insertion sort */ 
 void insertionSort(int arr[], int n)
 { 
     for (int i = 1; i < n; ++i) {
