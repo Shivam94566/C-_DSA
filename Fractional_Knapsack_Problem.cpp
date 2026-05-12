@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {  
     int n, W;
-    cin >> n >> W;
+    cin >> n >> W;  
 
     vector<int> value(n), weight(n);
     vector<double> ratio(n);
