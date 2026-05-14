@@ -8,7 +8,7 @@ int main() {
 
     vector<int> value(n), weight(n);
     vector<double> ratio(n);
-
+ 
     // Input
     for(int i = 0; i < n; i++) {
         cin >> value[i] >> weight[i];
