@@ -10,7 +10,7 @@ int main()
     long long y= 20; 
 
     //float
-    float f = 10.5; 
+    float f = 10.5;   
     cout << "Float value: " << f << endl;
     return 0;
-}
+}  
