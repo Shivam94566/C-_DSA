@@ -1,11 +1,12 @@
 #include<bits/stdc++.h>
 using namespace std;
+
 int main(){
     int x;
     cin >> x;
     switch(x){
         case 1:
-            cout << "monday";
+            cout << "monday";   
             break;
         case 2:
             cout << "tuesday";              
@@ -16,4 +17,4 @@ int main(){
         default:
             cout << "invalid input";
     }
-}
+} 
